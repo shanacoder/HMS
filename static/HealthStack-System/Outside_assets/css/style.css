@@ -2528,6 +2528,8 @@ html.menu-opened body {
     opacity: 0;
     visibility: hidden;
 	z-index: 99;
+	display: none!important;
+
 }
 .profile-widget:hover .fav-btn {
     opacity: 1;
@@ -2539,6 +2541,8 @@ html.menu-opened body {
 .profile-widget .fav-btn:hover {
 	background-color: #fb1612;
 	color: #fff;
+	display: none!important;
+
 }
 .pro-content {
     padding: 15px 0 0;

@@ -160,3 +160,7 @@ h6 {
 .my-1 {
     margin-top: .25rem!important;
 }
+
+.profile-widget .fav-btn{
+    display: none;
+}
